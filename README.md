@@ -5,4 +5,6 @@
 ## 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GencerG&count_private=true&include_all_commits=false&show_icons=true&theme=dracula)
 ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GencerG&layout=compact&theme=dracule)](https://github.com/anuraghazra/github-readme-stats)
+##
 ![snake gif](https://github.com/GencerG/GencerG/blob/output/github-contribution-grid-snake.gif)
